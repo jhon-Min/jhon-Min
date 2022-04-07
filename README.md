@@ -1,3 +1,4 @@
+![alt text](https://github.com/jhon-Min/jhon-Min/blob/main/SNOW_20220215_135642_979.jpg)
 <h1 align="center">Hi 👋, I'm Nyi Say Min</h1>
 <h3 align="center">A passionate fullstack developer from Myanmar</h3>
 
