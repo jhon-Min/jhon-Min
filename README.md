@@ -1,6 +1,6 @@
 <!-- ![alt text](https://github.com/jhon-Min/jhon-Min/blob/main/SNOW_20220215_135642_979.jpg) -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nyi Say Min</h1>
-<h3 align="center">A passionate fullstack developer from Myanmar</h3>
+<h3 align="center">Backend Developer from Myanmar</h3>
 
 - 🌱 I’m currently learning **DotNet Core**
 
