@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DotNet Core**
 
-- 💬 Ask me about **Laravel and Vue**
+- 💬 Ask me about **Laravel and React**
 
 - 📫 How to reach me **minnyisay@gmail.com**
 
