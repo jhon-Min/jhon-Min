@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DotNet Core**
 
-- 💬 Ask me about **Laravel and React**
+- 💬 Ask me about **Laravel and Backend Tech**
 
 - 📫 How to reach me **_____++______**
 
