@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Seo Min</h1>
 <h3 align="center">Backend Developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **DotNet Core**
+- 🌱 I’m currently learning **Solution Arch**
 
-- 💬 Ask me about **Laravel and Backend Tech**
+- 💬 Ask me about **Backend Tech & Cloud**
 
 - 📫 How to reach me **_____++______**
 
