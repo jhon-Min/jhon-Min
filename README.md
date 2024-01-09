@@ -68,7 +68,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="30" height="30" /> </a> </p>
 
-<p style="margin-top: 50px;"><img align="left"
+<p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jhon-min&show_icons=true&locale=en&layout=compact"
         alt="jhon-min" /></p>
 
