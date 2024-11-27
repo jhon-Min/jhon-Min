@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Business IT & Entrepreneurship**
 
-- 💬 Ask me about **Backend Tech & Cloud**
+- 💬 Ask me about **Backend Tech & GAME**
 
 - 📫 How to reach me **minnyisay@gmail.com**
 
